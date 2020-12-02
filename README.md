@@ -17,3 +17,15 @@ Day 1, Part 2
 257778836
 ```
 
+## Day 2
+
+```shell
+./src/day-2/solver.clj
+
+Day 2, Part 1
+"Elapsed time: 21.467295 msecs"
+640
+Day 2, Part 2
+"Elapsed time: 7.960345 msecs"
+472
+```
