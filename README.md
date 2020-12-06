@@ -67,3 +67,15 @@ Day 5, Part 2
 "Elapsed time: 19.201853 msecs"
 661
 ```
+
+### Day 6
+
+```shell
+./src/day-6/solver.clj
+Day 5, Part 1
+"Elapsed time: 13.761169 msecs"
+6457
+Day 5, Part 2
+"Elapsed time: 12.570879 msecs"
+3260
+```
