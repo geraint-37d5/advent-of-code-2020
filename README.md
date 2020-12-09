@@ -103,3 +103,16 @@ Day 8, Part 2
 "Elapsed time: 30.649945 msecs"
 [true {:v 2096, :j 1}]
 ```
+
+### Day 9
+
+```shell
+./src/day-9/solver.clj
+Day 9, Part 1
+"Elapsed time: 6.86428 msecs"
+27911108
+Day 9, Part 2
+"Elapsed time: 2.21949 msecs"
+4023754
+
+```
