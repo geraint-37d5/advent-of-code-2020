@@ -114,5 +114,17 @@ Day 9, Part 1
 Day 9, Part 2
 "Elapsed time: 2.21949 msecs"
 4023754
-
 ```
+
+### Day 10
+
+```shell
+./src/day-10/solver.clj
+Day 10, Part 1
+"Elapsed time: 2.04512 msecs"
+2482
+Day 10, Part 2
+"Elapsed time: 2.229526 msecs"
+96717311574016
+```
+
