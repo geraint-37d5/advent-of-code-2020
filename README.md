@@ -128,3 +128,14 @@ Day 10, Part 2
 96717311574016
 ```
 
+### Day 11
+
+``` shell
+./src/day-11/solver.clj
+Day 11, Part 1
+"Elapsed time: 16504.904748 msecs"
+2126
+Day 11, Part 2
+"Elapsed time: 19102.939415 msecs"
+1914
+```
